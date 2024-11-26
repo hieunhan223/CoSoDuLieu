@@ -1,5 +1,5 @@
 # CoSoDuLieu
-
+PASSWORD: is.fit.hcmus.vn
 Thi lý thuyết
   1/ ER --> MH Quan hệ
     Tập thực thể sang quan hệ
