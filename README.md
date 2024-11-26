@@ -29,7 +29,16 @@ Thi Thực hành
   0/ Cho CSDL Script --> Tạo CSDL
   1/ Viết câu truy vấn cho các yêu cầu: 4-5 câu
     Chỉ viết 1 câu SQL (Cho phép viết SQL lồng, (cấm Select,From)), (cho phép where,having))
-
+      New query --> Save as Encoding UTF-8
+      -- Comment : Ghi lại thông tin MSSV, Tên, câu hỏi đề bài
+      -- Phân tích đề bài, kết quả, điều kiện, quan hệ
+      Ngôn ngữ SQL:
+        Select (Pi)
+        From (Bảng quan hệ) (Ex: From sinhvien s inner join lophoc l on (s.hoclop = l.malop)
+        Where (Sigma) (Ex: like N'L%')
+        Group by (Tau)
+        Having
+        Order by;
   2/ Kết nối vào server
    user: sa
    password: svcntt
