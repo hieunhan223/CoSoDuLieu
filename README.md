@@ -2,6 +2,12 @@
 
 Thi lý thuyết
   1/ ER --> MH Quan hệ
+    Tập thực thể sang quan hệ
+    Tập mối kết hợp 2 ngôi sang quan hệ
+    Tập mối kết hợp có 2 chỉ số max trên 2 bản số tương ứng là 1-n
+    Tập mối kết hợp có 2 chỉ số max trên 2 bản số tương ứng là n-m
+    Tập thực thể yếu sang quan hệ
+    Thuộc tính đa trị
   2/ MH Quan hệ: 
     2 Đại số quan hệ 
     2 Phép tính quan hệ
