@@ -22,6 +22,7 @@ Thi lý thuyết
             Phép kết 1 nửa
             Phép gom nhóm (Tau) + hàm tính toán (Count, Max, Min, Sum, Avg)
     2 Phép tính quan hệ
+      Biến là bộ, cú pháp {t | P(t)}
     1 Ràng buộc toàn vẹn
 
 Thi Thực hành 
