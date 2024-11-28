@@ -1,6 +1,7 @@
 # CoSoDuLieu
 PASSWORD: is.fit.hcmus.vn
-Thi lý thuyết
+
+THI LÝ THUYẾT
   1/ ER --> MH Quan hệ
     Tập thực thể sang quan hệ
     Tập mối kết hợp 2 ngôi sang quan hệ
@@ -25,7 +26,7 @@ Thi lý thuyết
       Biến là bộ, cú pháp {t | P(t)}
     1 Ràng buộc toàn vẹn
 
-Thi Thực hành 
+THI THỰC HÀNH 
 45-60 phút
   0/ Cho CSDL Script --> Tạo CSDL
   1/ Viết câu truy vấn cho các yêu cầu: 4-5 câu
@@ -44,3 +45,11 @@ Thi Thực hành
    user: sa
    password: svcntt
  Lưu *.sql
+Note: Fk should be "allow NULLs"
+
+Tools --> Options --> Designers --> Prevent saving changes that require table re-creation
+Condition: Right click --> Check constraint --> Identity: Name , Expression: SLTon >= 0, and, or
+
+Note: Cách lưu:
+.SQL			:	Right click --> Task --> Generate scripts --> Advanced: Types of data to script: Schema and data --> Save as .sql Encoding-UTF8
+.MDF and .LDF	: 	Right click --> Task --> Detach, check: Drop and Update	--> Save to another folder
